@@ -1,2 +1,2 @@
-email : blobal@naver.com
+email : blobal2@naver.com
 gitID : hubjoon
